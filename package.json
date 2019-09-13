@@ -1,0 +1,23 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "netflix project",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafapaivadeandrade/Netflix.git"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafapaivadeandrade/Netflix/issues"
+  },
+  "homepage": "https://rafapaivadeandrade.github.io/Netflix",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
